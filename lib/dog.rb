@@ -11,7 +11,7 @@ def breed=(mutt)
 end
 
 def breed
-  @mutt 
+  @breed
 end
 
 end
