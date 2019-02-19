@@ -11,6 +11,7 @@ def breed=(mutt)
 end
 
 def breed
-  
+  mutt 
+end
 
 end
