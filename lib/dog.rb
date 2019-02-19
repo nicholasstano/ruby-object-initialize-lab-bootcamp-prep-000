@@ -6,9 +6,11 @@ def initialize(name, breed)
 end
 
 def breed=(mutt)
+  breed = mutt 
   
-  "Mutt" 
 end
 
+def breed
+  
 
 end
